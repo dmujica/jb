@@ -14,7 +14,7 @@ title : Danielle's Bootstrap
 author : 
   name : Danielle Mujica
   email : blah@email.test
-  github : username
+  github : dmujica
   twitter : username
   feedburner : feedname
 
@@ -101,7 +101,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-50746208-1'
     getclicky :
       site_id : 
     mixpanel :
