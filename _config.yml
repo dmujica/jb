@@ -4,14 +4,15 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
+markdown: redcarpet
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title : Danielle's Bootstrap
 #tagline: Taggy Tag
-author : Danielle Mujica
-  name : Name Lastname
+author : 
+  name : Danielle Mujica
   email : blah@email.test
   github : username
   twitter : username
