@@ -10,7 +10,7 @@ markdown: redcarpet
 # so be sure to set them if your theme uses them.
 #
 title : Danielle's Bootstrap
-#tagline: Taggy Tag
+tagline: Taggy Tag
 author : 
   name : Danielle Mujica
   email : blah@email.test
